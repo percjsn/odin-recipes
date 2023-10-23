@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:#FEFAE0;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 2rem;
+    color: #DDA15E;
+}
+
+span a{
+    text-decoration: none;
+    color: #BC6C25;
+    margin: 0.5rem;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    
+}
+ul li{
+    margin: 0.5rem 1rem;
+    border: 1px solid #DDA15E;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    background-color: #283618;
+}
+ul li a{
+    color: #606C38;
+    text-align: none;
+    text-decoration: none;
+}

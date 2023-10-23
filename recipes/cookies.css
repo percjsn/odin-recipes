@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:#FEFAE0;
+}
+
+h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 2rem;
+    color: #DDA15E;
+}
+
+div a{
+    text-decoration: none;
+    color: #BC6C25;
+    margin: 0.5rem;
+    text-decoration: underline;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+}
+
+ol {
+    text-align: center;
+    list-style: none;
+    
+}
